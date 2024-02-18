@@ -8,5 +8,9 @@ My favourite ice cream flavour
  Vanilla
  ButterScotch
 
+ Stieve's favourite ice cream flavors:
+ - Meal worm
+ - Shrimp flakes
+ - Sunflower seeds
 
 
